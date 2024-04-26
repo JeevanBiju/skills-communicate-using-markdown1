@@ -5,3 +5,7 @@
 
 
 - I made a change here
+
+``` javascript
+var myVar = "Hello, world!";
+```
